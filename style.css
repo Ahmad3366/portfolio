@@ -173,6 +173,9 @@ h1 {
 li i,li span, li p {
   color: #ffffff;
 }
+li p {
+ text-align: center;
+}
 li i, li span {
   font-size: 75px;
 }
